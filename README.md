@@ -5,7 +5,7 @@ Ce dépôt contient les images utilisées dans le0 wiki de Cobblemon Realms.
 ---
 
 ## 📂 Organisation
-- Toutes les images sont stockées dans le dossier `/images`.
+- Toutes les images sont stockées dans le dossier `ImgWiki/`.
 - Les images sont nommées de manière descriptive (ex: `logo-projet.png`, `diagramme-architecture.png`).
 
 ---
