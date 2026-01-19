@@ -1,6 +1,6 @@
 # 📸 Images pour le Wiki de Cobblemon Realms
 
-Ce dépôt contient les images utilisées dans le0 wiki de Cobblemon Realms.
+Ce dépôt contient les images utilisées dans le wiki de Cobblemon Realms.
 
 ---
 
